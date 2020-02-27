@@ -1,3 +1,5 @@
+## Assignment 1: randomPrinter
+
 usage: randomPrinter.py [-h] [-f F] [-l L]
 
 Print randomly a range of integers.
